@@ -1,4 +1,4 @@
-# Automated Fetal ECG Monitoring - demo app
+# Automated Fetal ECG Monitoring
 
 Streamlit app for the fetal ECG project: upload an abdominal ECG recording (CSV), the app removes the
 mother's ECG, detects fetal beats (ML model or simple rules), and plots the fetal heart rate.
