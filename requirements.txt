@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+scipy
+matplotlib
+joblib
+# IMPORTANT: pin scikit-learn to the version you used in Colab, e.g. scikit-learn==1.6.1
+# (run `import sklearn; print(sklearn.__version__)` in your notebook). A different version can break the saved model.
+scikit-learn
